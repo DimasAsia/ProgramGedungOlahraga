@@ -1,0 +1,16 @@
+=====================================
+   STRUK PEMBOOKINGAN GOR SIDOARJO
+=====================================
+
+	Gedung Olahraga Sidoarjo
+
+Gedung 			 : Futsal
+Lapangan 		 : futsal01
+Tanggal Pemesanan 	 : 2 Februari 2021
+Waktu 			 : 08.00 - 09.00
+Nama Pemesan 		 : hari
+No Handphone 		 : 2121121
+
+=====================================
+	   Terimakasih
+=====================================
